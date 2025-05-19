@@ -1,7 +1,7 @@
-🔐 Code Alpha Cybersecurity Internship  
+🔐 Cybersecurity Internship  
 
 📌 Overview  
-This repository contains my work for the Code Alpha Cybersecurity Internship.  
+This repository contains my work for the Cybersecurity Internship.  
 It includes hands-on projects, tasks, and assignments related to cybersecurity concepts, tools, and techniques.  
 
 📂 Tasks  
